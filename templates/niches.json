@@ -1,0 +1,37 @@
+{
+  "niches": [
+    {
+      "id": "replace-with-niche-id",
+      "name_ko": "",
+      "name_en": "",
+      "audience_en": "",
+      "monetisation_en": "",
+      "unknowns_en": "",
+      "assessment": {
+        "demand": {
+          "score": null,
+          "rationale_en": ""
+        },
+        "commercial_opportunity": {
+          "score": null,
+          "rationale_en": ""
+        },
+        "production_feasibility": {
+          "score": null,
+          "rationale_en": ""
+        },
+        "differentiation": {
+          "score": null,
+          "rationale_en": ""
+        }
+      },
+      "sources": [
+        {
+          "url": "",
+          "accessed_on": "",
+          "supports": ""
+        }
+      ]
+    }
+  ]
+}

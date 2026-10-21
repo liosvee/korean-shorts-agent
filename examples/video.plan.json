@@ -1,0 +1,13 @@
+{
+  "kind": "video",
+  "request": {
+    "model_id": "veo-3.1-fast-generate-001",
+    "prompt": "Slow cinematic push towards a plain reusable water bottle on a studio table, warm side lighting, minimal background, no text.",
+    "duration_secs": 8,
+    "aspect_ratio": "9:16",
+    "resolution": "1080p",
+    "generate_audio": false
+  },
+  "estimated_credits": null,
+  "estimate_source": null
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "image",
+  "request": {
+    "model_id": "gemini-3-pro-image",
+    "prompt": "A plain reusable water bottle on a clean studio table, warm side light, no text or logos.",
+    "aspect_ratio": "9:16",
+    "resolution": "2K"
+  },
+  "estimated_credits": null,
+  "estimate_source": null
+}

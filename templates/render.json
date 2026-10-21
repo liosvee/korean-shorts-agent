@@ -1,0 +1,13 @@
+{
+  "aspect_ratio": "9:16",
+  "narration": "../../outputs/narration/audio.mp3",
+  "captions": "../../outputs/narration/captions.srt",
+  "caption_font": "Noto Sans CJK KR",
+  "caption_font_file": "../../fonts/NotoSansCJKkr-Regular.otf",
+  "scenes": [
+    {
+      "file": "../../outputs/scene-01/media.png",
+      "seconds": 0
+    }
+  ]
+}

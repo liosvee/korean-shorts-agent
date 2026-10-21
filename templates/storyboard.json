@@ -1,0 +1,17 @@
+{
+  "note": "Planning timings only until narration is measured.",
+  "scenes": [
+    {
+      "scene": 1,
+      "start_seconds": null,
+      "end_seconds": null,
+      "narration_ko": "",
+      "translation_en": "",
+      "visual_prompt": "",
+      "asset_source": "generated/owned/licensed",
+      "source_url": null,
+      "licence_or_permission": null,
+      "planned_file": ""
+    }
+  ]
+}

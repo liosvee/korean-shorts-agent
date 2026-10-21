@@ -1,0 +1,11 @@
+{
+  "kind": "music",
+  "request": {
+    "model_id": "music_v1",
+    "prompt": "Gentle instrumental ambient underscore, warm piano, restrained percussion, space for narration.",
+    "music_length_ms": 30000,
+    "force_instrumental": true
+  },
+  "estimated_credits": null,
+  "estimate_source": null
+}
