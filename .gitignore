@@ -13,3 +13,9 @@ MASTER_CONTEXT.md
 *.egg-info/
 dist/
 build/
+
+# Local research, receipts and transient learning locks
+**/.evolution/
+**/knowledge/.lock
+**/knowledge/*.tmp
+__pycache__/

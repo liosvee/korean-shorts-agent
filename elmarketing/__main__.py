@@ -21,6 +21,9 @@ def main():
     p = sub.add_parser('probe'); p.add_argument('file')
     args = parser.parse_args()
     load_env()
+    from evolution.learn import verify_for_file
+    if args.command == "submit": verify_for_file(args.plan)
+    if args.command == "render": verify_for_file(args.manifest)
     if args.command == 'review':
         result = review(json.loads(Path(args.plan).read_text(encoding='utf-8')))
     elif args.command == 'render':

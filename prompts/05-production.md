@@ -1,5 +1,10 @@
 # Produce and review
 
+## Use the active learning run
+
+For a new production, follow [the shared learning workflow](../evolution/WORKFLOW.md) after intake establishes the niche. Read the active run's brief before drafting. Prepare an original script, thumbnail plan, hashtags, tags, description and storyboard, addressing the applicable rules for all six facets. Apply the findings with an artifact-bound receipt and verify before narration, paid media or render commands. After retiming or revising bound artifacts, re-apply and verify; preserve existing approvals. A resumed production uses its existing research run. Unavailable observations remain explicit gaps.
+
+
 Read docs/production.md. Check the approved script, translation, voice and
 media budget. Use the real narration voice ID and explicit model. Prepare
 speech.plan.json using speech-plan; review all requests before submission.

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "repository": "liosvee/korean-shorts-agent",
+  "branch": "main",
+  "fixed_scope": {
+    "language": "ko",
+    "market": "KR",
+    "format": "short"
+  }
+}

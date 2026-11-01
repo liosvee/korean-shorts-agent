@@ -10,4 +10,7 @@ requires-python = ">=3.10"
 dependencies = []
 
 [tool.setuptools.packages.find]
-include = ["ko_shorts*", "elmarketing*"]
+include = ["evolution*", "ko_shorts*", "elmarketing*"]
+
+[tool.setuptools.package-data]
+evolution = ["config.json", "WORKFLOW.md", "SCHEMA.md", "knowledge/*.json", "knowledge/*.md"]
