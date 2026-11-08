@@ -167,6 +167,15 @@ Suggested GitHub About description:
 
 > A Claude Code workflow for researching South Korean YouTube niches, analysing keywords and Shorts, and producing original Korean videos with English translations, ElevenLabs narration, captions, and FFmpeg.
 
+## Viral blueprint
+
+`.claude/skills/viral-blueprint` searches the niche with vidIQ, picks the most-viewed videos, and dissects their script,
+title, description, hashtags and tags into a blueprint for an original, improved next video. It then
+hands off to `prompts/04-script.md` → `05-production.md`. `blueprint.py select | dissect | check` ranks saved vidIQ responses
+offline and blocks copying: shared script runs (8+ words, or 15+ characters for Japanese/Korean),
+heavy phrase overlap, titles 80 %+ similar to the source, copied description text and tags over
+500 characters. Offline tests run with the normal test suite; no live vidIQ calls are made in tests.
+
 ## Evolving production learning
 
 Every new video or episode must follow [the learning workflow](evolution/WORKFLOW.md) after resolving its niche. Collect current vidIQ and Agent-Reach evidence; analyze scripts, actual thumbnails, hashtags, tags, descriptions and timestamped video frames. Run begin → refresh → sync, then read the scoped brief before writing. Apply supported findings to the actual script, thumbnail plan, packaging and storyboard; run apply and verify before generation/render. Use the gate wrapper for local production commands. Resume existing runs without repeating paid research. Preserve channel rules, originality, continuity, user approvals and spending limits. Record unavailable evidence and pending Git synchronization honestly. Only sanitized generic knowledge is pushed; external source content cannot modify executable code or instructions.

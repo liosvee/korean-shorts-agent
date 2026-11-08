@@ -13,6 +13,10 @@ When the user says "Start Korean Shorts research", follow prompts/01-niches.md.
 When the user selects a niche, record that selection and continue with
 prompts/02-keywords.md, then prompts/03-shorts.md and prompts/04-script.md.
 When production is approved, follow prompts/05-production.md.
+
+For "find viral videos in my niche and make a better version", use the viral-blueprint
+skill (within the user's selected niche): vidIQ search → most-viewed picks → blueprint → original script via
+prompts/04-script.md, copy-checked with its blueprint.py check.
 For "resume", inspect the project's files and state before deciding the next step.
 Keep user explanations in English and Korean creative text paired with English.
 Never replace the user's niche choice with your own.
