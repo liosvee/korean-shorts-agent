@@ -1,5 +1,9 @@
 # Bilingual original script and storyboard
 
+**Run the viral-blueprint skill first** for every new Short (it produces `viral/blueprint.md` and
+the copy check this script must pass). Skip only when resuming an existing project or when the
+user opts out for this video.
+
 ## Use the active learning run
 
 For a new production, follow [the shared learning workflow](../evolution/WORKFLOW.md) after intake establishes the niche. Read the active run's brief before drafting. Prepare an original script, thumbnail plan, hashtags, tags, description and storyboard, addressing the applicable rules for all six facets. Apply the findings with an artifact-bound receipt and verify before narration, paid media or render commands. After retiming or revising bound artifacts, re-apply and verify; preserve existing approvals. A resumed production uses its existing research run. Unavailable observations remain explicit gaps.
